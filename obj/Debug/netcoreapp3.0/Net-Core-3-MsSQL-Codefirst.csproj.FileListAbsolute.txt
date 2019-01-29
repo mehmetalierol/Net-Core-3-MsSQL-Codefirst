@@ -1,0 +1,11 @@
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-MsSQL-Codefirst\bin\Debug\netcoreapp3.0\Net-Core-3-MsSQL-Codefirst.deps.json
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-MsSQL-Codefirst\bin\Debug\netcoreapp3.0\Net-Core-3-MsSQL-Codefirst.dll
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-MsSQL-Codefirst\obj\Debug\netcoreapp3.0\Net-Core-3-MsSQL-Codefirst.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-MsSQL-Codefirst\obj\Debug\netcoreapp3.0\Net-Core-3-MsSQL-Codefirst.AssemblyInfoInputs.cache
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-MsSQL-Codefirst\obj\Debug\netcoreapp3.0\Net-Core-3-MsSQL-Codefirst.AssemblyInfo.cs
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-MsSQL-Codefirst\bin\Debug\netcoreapp3.0\Net-Core-3-MsSQL-Codefirst.runtimeconfig.json
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-MsSQL-Codefirst\bin\Debug\netcoreapp3.0\Net-Core-3-MsSQL-Codefirst.runtimeconfig.dev.json
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-MsSQL-Codefirst\obj\Debug\netcoreapp3.0\Net-Core-3-MsSQL-Codefirst.csprojAssemblyReference.cache
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-MsSQL-Codefirst\bin\Debug\netcoreapp3.0\Net-Core-3-MsSQL-Codefirst.pdb
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-MsSQL-Codefirst\obj\Debug\netcoreapp3.0\Net-Core-3-MsSQL-Codefirst.dll
+C:\Users\Mehmet Ali Erol\Source\Repos\Net-Core-3-MsSQL-Codefirst\obj\Debug\netcoreapp3.0\Net-Core-3-MsSQL-Codefirst.pdb
